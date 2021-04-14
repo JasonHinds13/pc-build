@@ -3,22 +3,22 @@
 Building a gaming PC is something I've been wanting to do for a long time. The aim was to build one from parts that each cost less than $50 USD. I ended up getting all the parts except for the motherboard for a price under the limit.
 
 ## Constraints and Notes
-- As I mentioned I looked for parts that cost under $50 USD. This decision was in attempt to avoid the Jamaica Customs import fee which, as of building it this PC, charged on goods valued at over $50 USD.
+- As I mentioned I looked for parts that cost under $50 USD. This decision was in attempt to avoid the Jamaica Customs import fee which, as of building it this PC, is charged on goods valued at over $50 USD.
 - Due to the 2020 pandemic prices of computer parts have risen, especially GPUs, which is part of the reason I went for a CPU that comes with integrated graphics.
 - Cost to clear items when they arrive in the country differ due to different factors such as weight and which freight fowarding companies were used.
-- AMD was a good choice for me, especially since they come with CPU coolers and sometimes thermal paste pre-applied.
+- AMD was a good choice for this project, especially since they come with CPU coolers and sometimes thermal paste pre-applied.
 
 ## PC Specifications
 
-AMD Athlon 3000G with Integrated Graphics  
+AMD Athlon 3000G with Integrated Radeon Vega 3 Graphics  
 16GB DDR4 3200 (2 x 8GB Sticks)  
 256GB SSD and 1TB HDD
 
 ## Methodology
-I used [PCPartPicker](https://pcpartpicker.com/) to locate parts, compare the prices across different sellers and check for compatibility between the different parts. Started off by identifying which CPU I wanted to use, then finding a compatibile motherboard and RAM. I figured those were the most important parts to get out of the way first.
+I used [PCPartPicker](https://pcpartpicker.com/) to locate parts, compare the prices across different sellers, and check for compatibility between the different parts. Started off by identifying which CPU I wanted to use, then finding a compatibile motherboard and RAM. I figured those were the most important parts to get out of the way first.
 
 ## Performace
-It runs games quite well. So far I've tested it with games like Star Wars Jedi: Fallen Order, Apex Legends and GTA V.
+It runs games quite well. So far I've tested it with games like Star Wars Jedi: Fallen Order, Apex Legends and GTA V. I also used [UserBenchmark](https://www.userbenchmark.com/) for additional performance checks. The results can be viewed in the PDF included.
 
 ## Cost of parts
 
@@ -42,6 +42,8 @@ Prices may have varied since I purchased these. Some of these items had tax appl
 ## Useful Links
 - [Installing a CPU - How To: Basics by Linus Tech Tips](https://www.youtube.com/watch?v=_zojIW-2DD8)
 - [How to Choose a Motherboard: 3 Levels of Skill by Paul's Hardware](https://www.youtube.com/watch?v=lP-pinlU-Ko)
+- [How to Install DDR4 RAM by Builds With V](https://www.youtube.com/watch?v=FcYB1hPf-dE)
 - [Choosing the Right PC Power Supply (PSU) as Fast As Possible by Techquickie](https://www.youtube.com/watch?v=lqThn3C-zg4)
 - [Modular vs Non Modular Power Supplies as Fast As Possible by Techquickie](https://www.youtube.com/watch?v=uSTh_N7_fwI)
 - [AMD Athlon 3000G | Vega 3 benchmark test in 16 games by Benchmark Tests](https://www.youtube.com/watch?v=lUpYQeu2bVY)
+- [My parts list on PCPartPicker](https://pcpartpicker.com/list/2rf6xc)
